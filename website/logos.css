@@ -1,0 +1,17 @@
+body {
+    background-image: url('background.jpg');
+    height: 50vh;
+} 
+.language {
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding-right: 100px;
+
+}
+.bc h1 {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
